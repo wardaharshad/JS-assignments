@@ -79,7 +79,7 @@ document.write("Your birth year is " + birthYear +"<br>");
 
 // Task 14
 document.write("<h1>K-Electric Bill</h1><br>");
-document.write("Customer Name: <strong>Abdullah Arshad</strong><br>");
+document.write("Customer Name: <strong>Wardah Arshad</strong><br>");
 document.write("Month: <strong>February</strong><br>");
 var units = 410;
 document.write("No of Units: <strong>"+units+"</strong><br>");
