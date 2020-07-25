@@ -8,7 +8,7 @@ for(var y=0;y<render.length;y++){
     document.write(render[y].innerHTML);
 }
 
-document.getElementById("first-name").value = "Abdullah"
+document.getElementById("first-name").value = "Wardah"
 document.getElementById("last-name").value = "Arshad"
 document.getElementById("email").value = "abc@gmail.com"
 
