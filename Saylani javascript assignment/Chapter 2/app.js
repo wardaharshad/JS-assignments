@@ -2,7 +2,7 @@
 var username;
 
 //Task 2
-var myName = "Abdullah Arshad";
+var myName = "Wardah Arshad";
 
 //Task 3
 var message = "Hello World";
